@@ -1,0 +1,19 @@
+@import "./styles.scss";
+
+body {
+    display: flex;
+    align-items: center;
+
+}
+
+form {
+        border: 2px solid $light-grey;
+        border-radius: 5px;
+
+    .btn {
+        background: $faded-blue;
+        border: none;
+        color: $white !important;
+        width: 100%;
+    }
+}
