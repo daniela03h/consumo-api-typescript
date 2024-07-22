@@ -2,13 +2,13 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo desarrollar un software con typescript que me permita consumir un API 
+Este proyecto tiene como objetivo desarrollar un software con Typescript que me permita consumir un API 
 
 ## Instalación 
 
 #### Prerrequisitos
 
-- Tener instalado node, npm y typeSceript
+- Tener instalado node, npm y TypeScript
 
 #### Correr proyecto
 
@@ -17,7 +17,7 @@ Este proyecto tiene como objetivo desarrollar un software con typescript que me 
 
 ## Tecnologias
 
-- Frontend: HTML, CSS, typeSceript
+- Frontend: HTML, CSS, TypeScript
 - Api: http://190.147.64.47:5155/api-doc
 - Estilos: Bootstrap y SASS
 - Control de versiones: Git & GitHub
