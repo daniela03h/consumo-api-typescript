@@ -1,0 +1,11 @@
+@import "./styles.scss";
+
+
+.btn-create {
+    background: $faded-blue;
+    color: $white !important;
+}
+
+.action-buttons {
+    min-width: 120px;
+}
